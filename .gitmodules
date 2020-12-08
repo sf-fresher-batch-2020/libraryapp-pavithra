@@ -1,0 +1,9 @@
+[submodule "libraryapp-ui"]
+	path = libraryapp-ui
+	url = https://github.com/sf-fresher-batch-2020/libraryapp-ui.git
+[submodule "libraryapp-angular-ui"]
+	path = libraryapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/libraryapp-angular-ui.git
+[submodule "libraryapp-api"]
+	path = libraryapp-api
+	url = https://github.com/sf-fresher-batch-2020/libraryapp-api.git
