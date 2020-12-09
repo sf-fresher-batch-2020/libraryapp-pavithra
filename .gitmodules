@@ -7,3 +7,6 @@
 [submodule "libraryapp-api"]
 	path = libraryapp-api
 	url = https://github.com/sf-fresher-batch-2020/libraryapp-api.git
+[submodule "libraryapp-mock-api"]
+	path = libraryapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/libraryapp-mock-api.git
